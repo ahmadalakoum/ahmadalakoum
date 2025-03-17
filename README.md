@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Ahmad Al Akoum , A passionate full stack developer
+Hello, I am Ahmad Al Akoum , A Software Engineer with a strong foundation in frontend and backend development. Proficient in PHP, JavaScript, React and Laravel. Skilled in problem-solving, research, and cross-functional collaboration. Passionate about leveraging technology to develop innovative software solutions. Seeking a challenging role to apply technical expertise and drive impactful advancements in software development.
 
 
 ## 🌐 Socials:
